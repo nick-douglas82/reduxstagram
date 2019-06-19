@@ -6,4 +6,4 @@ Course from Wes Bos' [learn Redux course](https://learnredux.com/)
 
 ## Demo
 
-(http://reduxstagram.nick-douglas.co.uk)
+http://reduxstagram.nick-douglas.co.uk
