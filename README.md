@@ -1,6 +1,13 @@
-# reduxstagram
-An Instagram example using React and Redux
+# Learn Redux
 
-[From Wes Bos' course](https://learnredux.com/)
+A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
 
-[Demo](http://reduxstagram.nick-douglas.co.uk)
+## Running
+
+First `npm install` to grab all the necessary dependencies. 
+
+Then run `npm start` and open <localhost:7770> in your browser.
+
+## Production Build
+
+Run `npm build` to create a distro folder and a bundle.js file.
